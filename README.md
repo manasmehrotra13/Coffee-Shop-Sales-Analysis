@@ -1,6 +1,6 @@
 COFFEE SHOP SALES ANALYSIS
 
-This project is made by using Excel and Power Query. Gone through many processes to get the insights for the sales and to find out answers to some relevant questions.
+I worked on this project using Excel and Power Query, diving into various processes to uncover sales insights and find answers to some key questions.
 
 OBJECTIVE- To analyse retail sales data to gain actionable insights that will enhance the performance of the coffee shop.
 
