@@ -1,5 +1,7 @@
 COFFEE SHOP SALES ANALYSIS
 
+TECHNOLOGIES USED: EXCEL
+
 I worked on this project using Excel and Power Query, diving into various processes to uncover sales insights and find answers to some key questions.
 
 OBJECTIVE- To analyse retail sales data to gain actionable insights that will enhance the performance of the coffee shop.
